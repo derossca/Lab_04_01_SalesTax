@@ -10,6 +10,5 @@ public class SalesTax {
         // Outputed the purchase price and then multiplied the price and tax rate to get the sales tax
         System.out.println("The price of the purchase is " + purchasePrice + ".");
         System.out.println("A 5% sales tax on the price is " + purchasePrice * TAX_RATE + ".");
-
     }
 }
